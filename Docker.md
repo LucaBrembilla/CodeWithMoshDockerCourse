@@ -1,5 +1,6 @@
 # Docker
 Based on the course by Mosh
+These are the notes that I've taken on [Obsidian](https://obsidian.md/), so they may be badly formatted here.
 
 ---
 
